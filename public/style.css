@@ -42,4 +42,5 @@ input[type=checkbox]:focus {
 }
 .p {
     background-color: red;
+    color: blue;
 }
